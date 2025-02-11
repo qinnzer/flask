@@ -1,0 +1,23 @@
+h1 {
+   color: #d22e3a
+}
+
+.custom-bggrey {
+    background-color: rgba(125,125,125, 0.4);
+    font-size: 20px;
+}
+.custom-bggreen {
+    background-color: rgba(0, 255, 0, 0.2);
+    font-size: 20px;
+    color: #02633e;
+}
+.custom-bgyellow {
+    background-color: rgba(255,255,0, 0.4);
+    font-size: 20px;
+    color: #eb9c00;
+}
+.custom-bgred {
+    background-color: rgba(255,0,0, 0.4);
+    font-size: 20px;
+    color: #660011;
+}
